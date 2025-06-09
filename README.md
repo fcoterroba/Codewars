@@ -10,7 +10,7 @@ I'm expert on PHP and Python so these katas will be on "Rank up" focus. Also I'm
 
 ## Structure
 
-- Monday -> C++
+- Monday -> [C++](https://github.com/fcoterroba/CodeWars/tree/main/CPP)
 - Tuesday -> C#
 - Wednesday -> Rust
 - Thursday -> PHP
