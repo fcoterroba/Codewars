@@ -11,7 +11,7 @@ I'm expert on PHP and Python so these katas will be on "Rank up" focus. Also I'm
 ## Structure
 
 - Monday -> [C++](https://github.com/fcoterroba/CodeWars/tree/main/CPP)
-- Tuesday -> C#
+- Tuesday -> [C#](https://github.com/fcoterroba/CodeWars/tree/main/CS)
 - Wednesday -> Rust
 - Thursday -> PHP
 - Friday -> Python
