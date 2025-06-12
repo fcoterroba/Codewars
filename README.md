@@ -13,7 +13,7 @@ I'm expert on PHP and Python so these katas will be on "Rank up" focus. Also I'm
 - Monday -> [C++](https://github.com/fcoterroba/CodeWars/tree/main/CPP)
 - Tuesday -> [C#](https://github.com/fcoterroba/CodeWars/tree/main/CS)
 - Wednesday -> [Rust](https://github.com/fcoterroba/CodeWars/tree/main/Rust)
-- Thursday -> PHP
+- Thursday -> [PHP](https://github.com/fcoterroba/CodeWars/tree/main/PHP)
 - Friday -> Python
 
 ## Contributions
